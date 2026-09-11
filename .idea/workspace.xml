@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26910725-6d6a-4f04-b4e7-259d3cc239cd" name="변경" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/Week02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/sample02-1/sample02-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/sample02-1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sample02-1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week02/sample02-2/sample02-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week02/sample02-3/sample02-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week02/sample02-4/sample02-4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFile/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFile/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/jinyo/IdeaProjects/JAVA1/Week02/sample02-1/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/jinyo/IdeaProjects/JAVA1/Week02/sample02-4/src/Main.java",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -107,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788501081452</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1789099805458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789099805458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
