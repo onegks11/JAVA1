@@ -17,7 +17,7 @@ void main() {
     result = square_Area-circle_Area;// 정사각형 넓이 - 원의 넓이
 
     //결과 출력
-    System.out.printf("\n정사각형 면적: %d", square_Area);
-    System.out.printf("\n원의 면적: %.2f",circle_Area);
-    System.out.printf("\n구하고자 하는 면적: %.2f",result);
+    System.out.printf("\n정사각형 면적: %dcm²", square_Area);
+    System.out.printf("\n원의 면적: %.2fcm²",circle_Area);
+    System.out.printf("\n구하고자 하는 면적: %.2fcm²",result);
 }
