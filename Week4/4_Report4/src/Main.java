@@ -9,7 +9,7 @@ void main() {
     sell_cost = input.nextInt();
     
     //정보
-    tax = sell_cost / 11;
+    tax = (int) Math.round(sell_cost / 11.0);
     cost = sell_cost - tax;
     
     //출력
